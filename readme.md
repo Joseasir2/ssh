@@ -42,7 +42,7 @@ $ ssh -T git@github.com
 
 $ ssh clone git@github.com:Joseasir2/[nombre repositorio].git
 
-Y con esto ya estaría, tan solo har
+Y con esto ya estaría
 
 
 
