@@ -42,7 +42,11 @@ $ ssh -T git@github.com
 
 $ ssh clone git@github.com:Joseasir2/[nombre repositorio].git
 
-Y con esto ya estaría
+Y con esto ya estaría, hariamos:
+
+$ git add [nombre archivo]
+$ git commit -m "first commit"
+$ git push origin main
 
 
 
